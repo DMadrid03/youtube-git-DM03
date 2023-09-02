@@ -8,4 +8,3 @@ Mira este [enlace](https://jonmircha.com/git).
 
 ![Flujo de Git](git-flow.png)
 
-cambio de prueba
